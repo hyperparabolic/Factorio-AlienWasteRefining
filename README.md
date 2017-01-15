@@ -6,9 +6,7 @@ This is somewhat of a rushed alpha release.  The Factorio team is removing alien
 What does this mod do?
 ----------------------
 
-On killing unit spawners, resource patches containing alien waste are spawned:
-
-![Alien Waste](https://imgur.com/a/OjZad)
+On killing unit spawners, resource patches containing alien waste are spawned.
 
 These patches can be mined, and with the right technology researched, the alien waste can be refined into alien artifacts, that can be turned into alien research.
 
