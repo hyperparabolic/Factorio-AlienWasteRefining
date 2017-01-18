@@ -72,16 +72,6 @@ data:extend({
 
 data:extend({
     {
-        type = "autoplace-control",
-        name = "alien-waste",
-        richness = true,
-        order = "b-e"
-    },
-    {
-        type = "noise-layer",
-        name = "alien-waste"
-    },
-    {
         type = "item",
         name = "alien-waste",
         icon = "__Alien_Waste_Refining__/graphics/icons/alien-waste.png",

@@ -12,7 +12,7 @@ script.on_event(defines.events.on_entity_died, function(event)
                 game.surfaces[1].create_entity(
                 {
                     name = "alien-waste",
-                    amount = math.floor(5000*fall_off(x,y)),
+                    amount = math.floor(500*fall_off(x,y)),
                     position =
                     {
                         entity.position.x+x,
